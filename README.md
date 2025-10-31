@@ -36,11 +36,8 @@ VeilVault is a decentralized protocol for tokenizing Real World Assets (RWAs) in
 
 ## 📚 Documentation
 
-- **[Quick Start Guide](QUICKSTART.md)** - Get running in 5 minutes
+
 - **[Architecture](ARCHITECTURE.md)** - System design and technical details
-- **[Deployment Guide](DEPLOYMENT.md)** - Deploy to devnet and production
-- **[Demo Video Script](DEMO_VIDEO_SCRIPT.md)** - 60-second demo walkthrough
-- **[Colosseum Submission](COLOSSEUM_SUBMISSION.md)** - Hackathon submission guide
 - **[Contributing](CONTRIBUTING.md)** - How to contribute to VeilVault
 - **[Project Summary](PROJECT_SUMMARY.md)** - Complete MVP overview
 
