@@ -1,0 +1,13 @@
+{
+  "buildCommand": "cd app && npm install && npm run build",
+  "outputDirectory": "app/.next",
+  "framework": "nextjs",
+  "installCommand": "cd app && npm install",
+  "devCommand": "cd app && npm run dev",
+  "env": {
+    "NEXT_PUBLIC_SOLANA_NETWORK": "devnet",
+    "NEXT_PUBLIC_RPC_ENDPOINT": "https://api.devnet.solana.com",
+    "NEXT_PUBLIC_PROGRAM_ID": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+  }
+}
+
